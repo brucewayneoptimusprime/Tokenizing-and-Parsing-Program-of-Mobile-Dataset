@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702757654 source:d:\personal health csv token and parsing code\personal health\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<stdexcept>
+	<iomanip>
+
